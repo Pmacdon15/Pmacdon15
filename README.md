@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pmacdon15
 - 👀 I’m interested in Software development, Specifically back end.
-- 🌱 I’m currently learning Algorithms, retentional database, and mobile application development.
+- 🌱 I’m currently learning Algorithms, Relational Database, and Mobile Application Development.
 - 💞️ I’m looking to collaborate on Just about anything but the languages I'm comfortable in are javascript and C#, potentially some python.
 - 📫 How to reach me pmacdonald15@gmail.com
 
