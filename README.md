@@ -17,7 +17,7 @@ As a 35-year-old career truck driver, I'm excited to share my journey of transit
  - SQL languages (with a preference for PostgreSQL)
 
 ## Collaboration Opportunities:
-If you're interested in collaborating on a project or sharing knowledge, I'd love to connect! Please feel free to email me at pmacdonald15@gmail.com Let me know if you'd like me to make any further adjustments!
+If you're interested in collaborating on a project or sharing knowledge, I'd love to connect!
 
 <img alt="JavaScript" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg"/> <img alt="TypeScript" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg"/> <img alt="Python" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg"/> <img alt="C#" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg"/> <img alt="C++" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg"/> <img alt="Java" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg"/> <img alt="HTML5" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg"/> <img alt="Markdown" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown1.svg"/> <img alt="CSS3" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg"/>
 
