@@ -1,22 +1,22 @@
+# A bit about me. 
 
 - 👋 Hi, I’m @Pmacdon15
 - 👀 I’m interested in Software development, Specifically back end.
 - 🌱 I’m currently learning Algorithms, Relational Database, and Mobile Application Development.
 - 💞️ I’m looking to collaborate on Just about anything but the languages I'm comfortable in are javascript and C#, potentially some python.
 - 📫 How to reach me pmacdonald15@gmail.com
-
-# A bit about me. 
-Career Transition and Collaboration Opportunities
+  
+# Career Transition and Collaboration Opportunities
 As a 35-year-old career truck driver, I'm excited to share my journey of transitioning into the tech industry. I've recently completed my first year of a diploma program and am eager to continue learning and growing.
 
-Technical Skills:
+# Technical Skills:
  - Windows Forms and C#
  - Android Studio with Java
  - Next.js and TypeScript (passion project)
  - Vercel hosting
  - SQL languages (with a preference for PostgreSQL)
 
-Collaboration Opportunities:
+## Collaboration Opportunities:
 If you're interested in collaborating on a project or sharing knowledge, I'd love to connect! Please feel free to email me at pmacdonald15@gmail.com Let me know if you'd like me to make any further adjustments!
 
 <img alt="JavaScript" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg"/> <img alt="TypeScript" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg"/> <img alt="Python" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg"/> <img alt="C#" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg"/> <img alt="C++" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg"/> <img alt="Java" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg"/> <img alt="HTML5" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg"/> <img alt="Markdown" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown1.svg"/> <img alt="CSS3" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg"/>
