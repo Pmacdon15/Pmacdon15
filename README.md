@@ -6,6 +6,7 @@
 - 💞️ I’m looking to collaborate on Just about anything but the languages I'm comfortable in are javascript and C#, potentially some python.
 - 📫 How to reach me pmacdonald15@gmail.com
   
+![Profile View Counter](https://komarev.com/ghpvc/?username=Pmacdon15)
 # Career Transition and Collaboration Opportunities
 As a 35-year-old career truck driver, I'm excited to share my journey of transitioning into the tech industry. I've recently completed my first year of a diploma program and am eager to continue learning and growing.
 
@@ -19,7 +20,7 @@ As a 35-year-old career truck driver, I'm excited to share my journey of transit
 ## Collaboration Opportunities:
 If you're interested in collaborating on a project or sharing knowledge, I'd love to connect!
 
-<img alt="JavaScript" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg"/> <img alt="TypeScript" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg"/> <img alt="Python" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg"/> <img alt="C#" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg"/> <img alt="C++" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg"/> <img alt="Java" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg"/> <img alt="HTML5" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg"/> <img alt="Markdown" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown1.svg"/> <img alt="CSS3" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg"/>
+<img alt="JavaScript" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg"/> <img alt="TypeScript" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg"/> <img alt="Python" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg"/> <img alt="C#" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg"/> <img alt="C++" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg"/> <img alt="Java" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg"/> <img alt="HTML5" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg"/> <img alt="Markdown" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown1.svg"/> <img alt="tailwind" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg"> <img alt="CSS3" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg"/>
 
 <img alt="NodeJS" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg"/> <img alt="Npm" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm1.svg"/> <img alt="React" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg"/> <img alt="Next JS" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg"/> <img alt="Flask" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg"/> <img alt=".Net" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/dotNET/dotnet1.svg"/>
 
@@ -34,7 +35,10 @@ If you're interested in collaborating on a project or sharing knowledge, I'd lov
 <img alt="Windows 10" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg" /> <img alt="Ubuntu" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg" /> 
  <img alt="Raspberry Pie" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi1.svg"/> <img alt="Kali" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux1.svg"/>	<img alt="Kali" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg"/>
 
+ <img alt="Obsidian" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian1.svg">
+
 ![Pmacdon15's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pmacdon15&show_icons=true&theme=blue-green) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=compact)](https://github.com/Pmacdon15/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
