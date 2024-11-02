@@ -36,3 +36,5 @@ If you're interested in collaborating on a project or sharing knowledge, I'd lov
 
 ![Pmacdon15's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pmacdon15&show_icons=true&theme=blue-green) 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=compact)](https://github.com/Pmacdon15/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
