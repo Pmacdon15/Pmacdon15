@@ -10,7 +10,6 @@ As a soon-to-be college graduate, I'm excited to launch my career in software de
 
 # What I Bring to the Table
 With a strong command of React and web application development, I'm confident in my ability to deliver high-quality solutions. I'm passionate about collaborating with others and contributing to innovative projects.
-Feel free to connect with me on [Your LinkedIn/Portfolio] to explore potential collaboration opportunitie
 
 # Technical Skills:
  - Windows Forms and C#
