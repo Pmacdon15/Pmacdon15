@@ -1,19 +1,21 @@
-# A bit about me. 
+# About Me
+As a soon-to-be college graduate, I'm excited to launch my career in software development. With a diploma in Software Development from Bow Valley College, I've gained a solid foundation in building robust and scalable applications.
 
-- 👋 Hi, I’m @Pmacdon15
-- 👀 I’m interested in Software development, Specifically back end.
-- 🌱 I’m currently learning Algorithms, Relational Database, and Mobile Application Development.
-- 💞️ I’m looking to collaborate on Just about anything but the languages I'm comfortable in are javascript and C#, potentially some python.
-- 📫 How to reach me pmacdonald15@gmail.com
-  
-![Profile View Counter](https://komarev.com/ghpvc/?username=Pmacdon15)
-# Career Transition and Collaboration Opportunities
-As a 35-year-old career truck driver, I'm excited to share my journey of transitioning into the tech industry. I've recently completed my first year of a diploma program and am eager to continue learning and growing.
+# Technologies I Love
+- Next.js
+- TypeScript
+- Tailwind CSS
+- React
+- Custom hooks (e.g., TanStack's useQuery)
+
+# What I Bring to the Table
+With a strong command of React and web application development, I'm confident in my ability to deliver high-quality solutions. I'm passionate about collaborating with others and contributing to innovative projects.
+Feel free to connect with me on [Your LinkedIn/Portfolio] to explore potential collaboration opportunitie
 
 # Technical Skills:
  - Windows Forms and C#
  - Android Studio with Java
- - Next.js and TypeScript (passion project)
+ - Next.js, React and TypeScript (passion project)
  - Vercel hosting
  - SQL languages (with a preference for PostgreSQL)
 
@@ -35,7 +37,7 @@ If you're interested in collaborating on a project or sharing knowledge, I'd lov
 <img alt="Windows 10" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg" /> <img alt="Ubuntu" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg" /> 
  <img alt="Raspberry Pie" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi1.svg"/> <img alt="Kali" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux1.svg"/>	<img alt="Kali" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg"/>
 
- <img alt="Obsidian" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian1.svg">
+<img alt="Obsidian" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian1.svg">
 
 ![Pmacdon15's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pmacdon15&show_icons=true&theme=blue-green) 
 
