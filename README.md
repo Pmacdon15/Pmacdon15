@@ -1,5 +1,5 @@
 # About Me
-As a soon-to-be college graduate, I'm excited to launch my career in software development. With a diploma in Software Development from Bow Valley College, I've gained a solid foundation in building robust and scalable applications.
+As a College graduate, I'm excited to launch my career in software development. With a diploma in Software Development from Bow Valley College, I've gained a solid foundation in building robust and scalable applications.
 
 # Technologies I Love
 - Next.js
