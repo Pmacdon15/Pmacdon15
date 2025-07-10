@@ -38,13 +38,6 @@ If you're interested in collaborating on a project or sharing knowledge, I'd lov
 
 <img alt="Obsidian" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian1.svg">
 
-<a href="https://gitmoji.dev">
-  <img
-    src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square"
-    alt="Gitmoji"
-  />
-</a>
-
 ![Pmacdon15's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pmacdon15&show_icons=true&theme=blue-green) 
 
 
