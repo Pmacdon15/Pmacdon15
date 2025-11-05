@@ -20,9 +20,9 @@ With a strong command of React and web application development, I'm confident in
 ## Collaboration Opportunities:
 If you're interested in collaborating on a project or sharing knowledge, I'd love to connect!
 
-<img alt="TypeScript" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg"/> <img alt="Python" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg"/> <img alt="C#" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg"/>  <img alt="Java" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg"/>  
+<img alt="TypeScript" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg"/> <img alt="Python" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg"/> <img alt="C#" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg"/> <img alt="Java" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg"/>  
 
-<img alt="NodeJS" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg"/><img alt="React" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg"/> <img alt="Next JS" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg"/> <img alt="tailwind" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg"> 
+<img alt="React" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg"/> <img alt="Next JS" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg"/> <img alt="tailwind" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg"> 
 
 <img alt="Visual Studio Code" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg"/>
 
