@@ -20,11 +20,11 @@ With a strong command of React and web application development, I'm confident in
 ## Collaboration Opportunities:
 If you're interested in collaborating on a project or sharing knowledge, I'd love to connect!
 
-<img alt="TypeScript" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg"/> <img alt="Python" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg"/> <img alt="C#" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg"/>  <img alt="Java" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg"/>  <img alt="tailwind" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg"> 
+<img alt="TypeScript" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg"/> <img alt="Python" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg"/> <img alt="C#" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg"/>  <img alt="Java" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg"/>  
 
-<img alt="NodeJS" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg"/><img alt="React" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg"/> <img alt="Next JS" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg"/> 
+<img alt="NodeJS" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg"/><img alt="React" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg"/> <img alt="Next JS" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg"/> <img alt="tailwind" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg"> 
 
-<img alt="Visual Studio Code" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg"/> <img alt="Git" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg"/> <img alt="GitHub" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg"/> <img alt="Docker" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg"/>
+<img alt="Visual Studio Code" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg"/>
 
 <img alt="MySQL" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg"/> <img alt="Postgres" src ="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg"/> <img alt="SQLite" src ="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite2.svg"/>
 
