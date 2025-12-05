@@ -30,7 +30,7 @@ If you're interested in collaborating on a project or sharing knowledge, I'd lov
 
 <img alt="Vercel" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel2.svg"/> <img alt="Apache" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Apache/apache1.svg"/>
 
-
+![GitHub Stats](https://gh-stats.patmac.ca/api/stats/pmacdon15/chart)
 
 
 
